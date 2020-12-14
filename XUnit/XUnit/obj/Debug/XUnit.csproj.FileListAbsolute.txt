@@ -1,6 +1,0 @@
-D:\3kurs\epam\XUnitFrameWork\XUnit\XUnit\bin\Debug\XUnit.exe.config
-D:\3kurs\epam\XUnitFrameWork\XUnit\XUnit\bin\Debug\XUnit.exe
-D:\3kurs\epam\XUnitFrameWork\XUnit\XUnit\bin\Debug\XUnit.pdb
-D:\3kurs\epam\XUnitFrameWork\XUnit\XUnit\obj\Debug\XUnit.exe
-D:\3kurs\epam\XUnitFrameWork\XUnit\XUnit\obj\Debug\XUnit.pdb
-D:\3kurs\epam\XUnitFrameWork\XUnit\XUnit\obj\Debug\XUnit.csprojResolveAssemblyReference.cache
