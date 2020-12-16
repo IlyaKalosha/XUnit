@@ -1,6 +1,0 @@
-D:\3kurs\epam\XUnitFrameWork\XUnit\XUnit\bin\Release\XUnit.exe.config
-D:\3kurs\epam\XUnitFrameWork\XUnit\XUnit\bin\Release\XUnit.exe
-D:\3kurs\epam\XUnitFrameWork\XUnit\XUnit\bin\Release\XUnit.pdb
-D:\3kurs\epam\XUnitFrameWork\XUnit\XUnit\obj\Release\XUnit.csproj.CoreCompileInputs.cache
-D:\3kurs\epam\XUnitFrameWork\XUnit\XUnit\obj\Release\XUnit.exe
-D:\3kurs\epam\XUnitFrameWork\XUnit\XUnit\obj\Release\XUnit.pdb
