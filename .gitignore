@@ -1,11 +1,11 @@
 # Add any directories, files, or patterns you don't want to be tracked by version control
 /build
-//Aircompany/vs
-/Aircompany/obj
-/Aircompany/bin
-/AircompanyTests/obj
-/AircompanyTests/bin
+//XUnit/vs
+/XUnit/obj
+/XUnit/bin
+/CalculatorTests/obj
+/CalculatorTests/bin
 *.suo
-/Aircompany.v12.suo
-/AircompanyTests.v12.suo
+/XUnit.v12.suo
+/CalculatorTests.v12.suo
 .vs
